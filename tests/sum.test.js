@@ -2,7 +2,7 @@
 // Import Dependencies
 ///////////////////////
 
-const sum = require("../functions/sum")
+import sum from "../functions/sum"
 
 //////////////////////
 // Test
