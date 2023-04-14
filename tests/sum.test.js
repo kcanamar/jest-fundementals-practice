@@ -1,8 +1,9 @@
 ///////////////////////
 // Import Dependencies
 ///////////////////////
-
-import sum from "../functions/sum"
+// do not use `import` statements in vanilla JS
+// import sum from "../functions/sum"
+const sum = require("../functions/sum")
 
 //////////////////////
 // Test
